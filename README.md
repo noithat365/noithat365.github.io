@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+<i><span style="font-family: verdana;" data-keep-original-tag="false" data-original-attrs="{&quot;style&quot;:&quot;&quot;}"> Nội Thất Hòa Phát nay được đổi tên thành <a href="https://noithattheones.com.vn/"><b>Nội Thất The One</b></a>, một trong những thương hiệu được các dự án lớn ưu tiên lựa chọn hàng đầu. Bởi sự đa dạng về mặt hàng, sản phẩm và chất lượng thì luôn được đảm bảo suốt 27 năm qua. </span></i>
+<h2 data-original-attrs="{&quot;style&quot;:&quot;&quot;}"><span style="font-family: verdana;" data-keep-original-tag="false" data-original-attrs="{&quot;style&quot;:&quot;&quot;}">Những dự án tạo dựng không gian làm việc, học tập lớn</span></h2>
+<div><span style="font-family: verdana;" data-keep-original-tag="false" data-original-attrs="{&quot;style&quot;:&quot;&quot;}">Với dây chuyển sản xuất và các trang thiết bị hiện đại được nhập từ những quốc gia phát triển về công nghệ như Đức, Ý, Hàn Nhật. <b>Nội Thất Hòa Phát</b> đều đáp ứng được tất cả những yêu cầu khắt khe của khách hàng từ số lượng cho đến chất lượng của những dự án, công trình quy mô. Nhiều doanh nghiệp lớn sử dụng sản phẩm của Hòa Phát cho công cuộc kiến tạo không gian làm việc như Techcombank, Tập đoàn Dầu Khí, Tập đoàn Viettel...Không chỉ vậy, các sản phẩm của The One cũng được sử dụng rộng rãi tại các trường học. Mang đến một môi trường học tập chuyên nghiệp và lành mạnh. </span></div>
+<div><span style="font-family: verdana;" data-keep-original-tag="false" data-original-attrs="{&quot;style&quot;:&quot;&quot;}"> </span></div>
+<h2 data-original-attrs="{&quot;style&quot;:&quot;&quot;}"><span style="font-family: verdana;" data-keep-original-tag="false" data-original-attrs="{&quot;style&quot;:&quot;&quot;}">Những công trình công cộng hiện đại mang lại nhiều tiện ích </span></h2>
+<div><span style="font-family: verdana;" data-keep-original-tag="false" data-original-attrs="{&quot;style&quot;:&quot;&quot;}">Những công trình nổi bật và có quy mô lớn đều đòi hỏi nhà cung cấp phải đảm bảo chất lượng và có năng lực sản xuất. Thương hiệu Nội Thất Hòa Phát - cái tên được cái chủ đầu tư tin tưởng và gửi gắm công trình của mình. </span></div>
+<div><span style="font-family: verdana;" data-keep-original-tag="false" data-original-attrs="{&quot;style&quot;:&quot;&quot;}"> </span></div>
+<div>
 
-You can use the [editor on GitHub](https://github.com/noithat365/noithat365.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/noithat365/noithat365.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<span style="font-family: verdana;" data-keep-original-tag="false" data-original-attrs="{&quot;style&quot;:&quot;&quot;}">Một số công trình dự án lớn như nhà hát Hội An, trường đua Đại Nam được phủ hàng nghìn ghế ngồi của Nội Thất Hòa Phát. Với chất liệu sản phẩm có độ bền cao, ghế công trình đã làm hài hòng các nhà đầu tư. Tạo nên một không gian sống động và mang lại nhiều tiện ích cho khách tham quan. </span>
+<div data-original-attrs="{&quot;style&quot;:&quot;&quot;}"></div>
+<div class="separator" data-original-attrs="{&quot;style&quot;:&quot;&quot;}"><span style="font-family: verdana; font-size: 20.16px;">Tên thương hiệu mới để chắp cánh cho sứ mệnh mới</span></div>
+</div>
+<div><span style="font-family: verdana;" data-keep-original-tag="false" data-original-attrs="{&quot;style&quot;:&quot;&quot;}">Cái tên Hòa Phát đã gắn liền với người tiêu dùng toàn quốc gần 3 thập kỷ qua. Những cống hiến và có những đóng góp to lớn trong lĩnh vực nội thất văn phòng, nội thất công cộng, <a href="https://noithattheones.com.vn/danh-muc/noi-that-truong-hoc">nội thất trường học</a>,...Để tiếp tục khẳng định được vị thế trong nước và vươn xa ra thị trường quốc tế. Tháng 1/2022, thương hiệu Hòa Phát chính thức đổi tên thành Nội thất The One, với chiến lược và tầm nhìn lớn lao, phát triển mạnh mẽ. </span></div>
+<div><span style="font-family: verdana;" data-keep-original-tag="false" data-original-attrs="{&quot;style&quot;:&quot;&quot;}"> </span></div>
+<div><span style="font-family: verdana;" data-keep-original-tag="false" data-original-attrs="{&quot;style&quot;:&quot;&quot;}">Với phương châm "lấy khách hàng làm trọng tâm, trân trọng đối tác và đồng hành cùng đại lý". <a href="https://noithattheones.com.vn/">Nội thất The One </a>chắc chắn sẽ mang đến những sản phẩm cải tiến và tối ưu nhất với nhu cầu của người Việt, tạo nên những không gian sống hiện đại và tiện nghi. </span></div>
+<div><span style="font-family: verdana;" data-keep-original-tag="false" data-original-attrs="{&quot;style&quot;:&quot;&quot;}"> </span></div>
+<div><span style="font-family: verdana;" data-keep-original-tag="false" data-original-attrs="{&quot;style&quot;:&quot;&quot;}">Bên cạnh đó, Nội thất The One còn đặt ra mục tiêu chinh phục thị trường quốc tế. Mang sản phẩm nội thất của Việt Nam đến tay người tiêu dùng tại các quốc gia khác. </span></div>
+<div><span style="font-family: verdana;" data-keep-original-tag="false" data-original-attrs="{&quot;style&quot;:&quot;&quot;}"> </span></div>
+<div></div>
